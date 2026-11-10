@@ -1,2 +1,3 @@
-power = 777
-print(f"‘¨« : {{power}}") 
+power = 100
+print(f"ï¿½ï¿½ï¿½ï¿½: {{power}}") 
+print("rebase ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
