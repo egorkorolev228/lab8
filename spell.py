@@ -1,3 +1,3 @@
-power = 100 
-print(f"‘¨« : {{power}}") 
-print("rebase à ¡®â ¥â")
+power = 777
+print(f"ï¿½ï¿½ï¿½ï¿½: {{power}}") 
+print("rebase à ¡ï¿½â ¥ï¿½")
